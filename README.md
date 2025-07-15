@@ -1,10 +1,10 @@
-# 🚗 Dashboard para Motoristas de Aplicativo
+#  Dashboard para Motoristas de Aplicativo
 
 Aplicativo desenvolvido para ajudar motoristas a gerenciar seus ganhos, custos e lucros mensais, com interface simples e intuitiva.
 
 ---
 
-## 🔧 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - React.js (com Vite)
 - JavaScript (ES6+)
@@ -14,22 +14,22 @@ Aplicativo desenvolvido para ajudar motoristas a gerenciar seus ganhos, custos e
 
 ---
 
-## 📷 Capturas de tela
+##  Capturas de tela
 
-### 💰 Tela de Cadastro de Ganhos
+###  Tela de Cadastro de Ganhos
 ![Tela de Ganhos](./assets/tela-cadastro.jpg)
 
-### 📉 Tela de Relatórios
+###  Tela de Relatórios
 ![Tela de Relatórios](./assets/tela-resumo.jpg)
 
 ---
 
-## 💡 Resumo
+##  Resumo
 
 Essa aplicação foi desenvolvida para auxiliar Motoristas de Aplicativo a organizarem-se financeiramente, priorizando a simplicidade e facilidade de uso, sem deixar para trás um design atual.
 
 ---
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 ```bash
 # Clone o repositório
