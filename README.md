@@ -24,6 +24,11 @@ Aplicativo desenvolvido para ajudar motoristas a gerenciar seus ganhos, custos e
 
 ---
 
+## 💡 Resumo
+
+Essa aplicação foi desenvolvida para auxiliar Motoristas de Aplicativo a organizarem-se financeiramente, priorizando a simplicidade e facilidade de uso, sem deixar para trás um design atual.
+
+---
 ## 🚀 Como rodar o projeto
 
 ```bash
